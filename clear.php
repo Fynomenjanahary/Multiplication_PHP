@@ -48,7 +48,7 @@
                 echo        "<td>".$tab[$i][1]."</td>
                             <td>".$tab[$i][2]."</td>
                             <td>
-                                <a href='http://www.free.com/alter.php?change=$i'>Modify</a> 
+                                <a href='http://www.free.com/index.php?change=$i'>Modify</a> 
                                 <a href='http://www.free.com/clear.php?clear=$i'>Delete</a>
                             </td>
                         </tr>";
